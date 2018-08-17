@@ -24,6 +24,6 @@ class LuckyController
      */
     public function testFunctionAction() 
     {
-        return new Response('It works!');
+        return new Response('It workss!');
     }
 }
